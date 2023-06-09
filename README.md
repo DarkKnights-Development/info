@@ -1,7 +1,7 @@
 # info
 ToS and Privacy Policy of the Darkknights Discord Bot
 
-## Terms of Service for Discord Bot
+## Terms of Service for DarkKnights Discord Bot
 
 ### Last Updated: 09.06.2023
 
