@@ -1,6 +1,31 @@
 # info
 ToS and Privacy Policy of the Darkknights Discord Bot
 
+## Terms of Service for Discord Bot
+
+### Last Updated: 09.06.2023
+
+Please read these Terms of Service ("Terms") carefully before using the DarkKnights Discord bot ("Bot") created by DarkKnights-Development ("Developer"). By using the Bot, you agree to be bound by these Terms.
+
+1. Use of the Bot: You may use the Bot on the designated server for its intended purpose.
+
+2. Limitations of Liability: The Developer is not liable for any damages or losses incurred from the use or inability to use the Bot.
+
+3. User Conduct: You agree to use the Bot in compliance with all applicable laws and regulations.
+
+4. Privacy: The Bot collects and securely stores your Discord ID, Minecraft name, and Hypixel profile information.
+
+5. Data Security: Reasonable measures are taken to protect your information, but absolute security cannot be guaranteed.
+
+6. Data Retention: Your information will be retained for as long as necessary or as required by law.
+
+7. Modifications: The Developer may modify or discontinue the Bot at any time without notice.
+
+8. Governing Law: These Terms are governed by the laws of [Jurisdiction].
+
+By using the Bot, you acknowledge that you have read, understood, and agreed to these Terms of Service.
+
+
 ## Privacy Policy for DarkKnights Discord Bot
 
 ### Last Updated: 09.06.2023
